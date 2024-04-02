@@ -1,3 +1,4 @@
+/* mobile portrait 414w x 896h */
 .navbar-bs {
   background-color: var(--clr-light);
   margin-bottom: 1rem;
@@ -33,6 +34,19 @@
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+/* mobile landscape */
+@media (min-width: 414px) and (max-width: 896px) and (orientation: landscape) {
+  #cart-count-circle {
+    transform: translate(-325%);
+  }
+}
+/* tablet portrait */
+@media (min-width: 897px) and (max-width: 1079px) and (orientation: portrait) {
+  #cart-count-circle {
+    transform: translate(-160%);
+  }
 }
 
 /* tablet landscape */
