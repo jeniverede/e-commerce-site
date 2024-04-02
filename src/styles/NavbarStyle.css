@@ -35,10 +35,17 @@
   align-items: center;
 }
 
-/* tablet landscape */
-@media (min-width: 810px) and (orientation: landscape) {
+/* mobile landscape & table portrait */
+@media (min-width: 896px) and (orientation: landscape) {
   #cart-count-circle {
-    transform: translate(-175%);
+    transform: translate(-350%);
+  }
+}
+
+/* tablet landscape */
+@media (min-width: 1080px) and (orientation: landscape) {
+  #cart-count-circle {
+    transform: translate(-225%);
   }
 }
 
