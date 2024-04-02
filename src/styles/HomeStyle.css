@@ -3,14 +3,14 @@ img {
 }
 
 #product-credit {
-  font-size: small;
+  font-size: x-small;
   padding-left: 1rem;
   transform: translateY(-1.875rem);
 }
 
 #h1-home {
   font-family: var(--bs-font-primary);
-  color: var(--clr-light);;
+  color: var(--clr-light);
 }
 
 #h2-home {
@@ -27,13 +27,12 @@ img {
 .new-products-container {
   display: flex;
   gap: 1rem;
-  cursor:pointer;
+  cursor: pointer;
 }
 
 .new-products-title {
   display: flex;
-  margin:auto;
+  margin: auto;
   width: 50%;
   gap: 1rem;
-  
 }
