@@ -5,12 +5,12 @@ export function Studio() {
   return (
     <>
       <div>
-        <h1 id="h1">Studio</h1>
+        <h1 id="h1-studio">studio</h1>
       </div>
       <div className="page-container">
         <div className="text-container">
           <div>
-            <h4 id="h4">open studio times:</h4>
+            <h4 id="h4-studio">open studio times:</h4>
           </div>
 
           <div>
@@ -23,7 +23,7 @@ export function Studio() {
           </div>
 
           <div>
-            <h4 id="h4">by appointment:</h4>
+            <h4 id="h4-studio">by appointment:</h4>
           </div>
 
           <div>
@@ -39,7 +39,7 @@ export function Studio() {
           </div>
 
           <div>
-            <h4 id="h4">studio address & contact:</h4>
+            <h4 id="h4-studio">studio address & contact:</h4>
           </div>
 
           <div>

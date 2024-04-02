@@ -1,7 +1,7 @@
 .shop-container {
   background-color: var(--clr-dark);
 }
-#h1 {
+#h1-shop {
   font-family: var(--bs-font-primary);
   color: var(--bs-heading-color-light);
 }

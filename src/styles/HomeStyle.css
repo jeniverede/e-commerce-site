@@ -7,7 +7,20 @@ img {
   transform: translateY(-30px);
 }
 
-#h2 {
+#h1-home {
+  font-family: var(--bs-heading-color-light);
+  color: var(--clr-light);
+  padding: 1rem 0;
+}
+
+#h2-home {
+  font-family: var(--bs-heading-color-light);
+  color: var(--clr-light);
+  padding: 1rem 0;
+}
+
+#h3-home {
+  font-family: var(--bs-heading-color-light);
   color: var(--clr-light);
   padding: 1rem 0;
 }

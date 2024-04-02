@@ -1,23 +1,27 @@
 .page-container {
-    display: flex;
+  display: flex;
 }
 .text-container {
-    display: flex;
-    flex-direction: column;
-    width: 50%;
-    line-height: 1.8;
-    padding-right: 50px;
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  line-height: 1.8;
+  padding-right: 50px;
 }
 
-#h4 {
-    color: var(--bs-heading-color-light)
+#h1-studio {
+  font-family: var(--bs-font-primary);
+  color: var(--bs-heading-color-light);
 }
 
-.p-studio   {
-    color: var(--bs-heading-color-light)
+#h4-studio {
+  color: var(--bs-heading-color-light);
+}
+
+.p-studio {
+  color: var(--bs-heading-color-light);
 }
 
 .img-container {
-    width: 50%;
+  width: 50%;
 }
-
