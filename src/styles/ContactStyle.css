@@ -40,7 +40,7 @@ input {
   font-family: var(--bs-font-primary);
   font-size: large;
   color: var(--clr-light);
-  width: 20%;
+  width: 50%;
   text-align: center;
   border: none;
   margin: 2rem auto;
