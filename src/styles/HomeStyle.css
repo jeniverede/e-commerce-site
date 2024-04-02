@@ -8,19 +8,19 @@ img {
 }
 
 #h1-home {
-  font-family: var(--bs-heading-color-light);
+  font-family: var(--bs-font-primary);
   color: var(--clr-light);
   padding: 1rem 0;
 }
 
 #h2-home {
-  font-family: var(--bs-heading-color-light);
+  font-family: var(--bs-font-primary);
   color: var(--clr-light);
   padding: 1rem 0;
 }
 
 #h3-home {
-  font-family: var(--bs-heading-color-light);
+  font-family: var(--bs-font-primary);
   color: var(--clr-light);
   padding: 1rem 0;
 }

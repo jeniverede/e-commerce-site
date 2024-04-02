@@ -1,8 +1,10 @@
-#h3 {
+#h3-shopping-cart {
+  font-family: var(--bs-font-primary);
   color: var(--bs-heading-color-dark);
 }
 
 .total {
+  font-family: var(--bs-font-primary);
   font-weight: bold;
   font-size: large;
   align-self: flex-end;

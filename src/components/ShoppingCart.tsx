@@ -31,7 +31,7 @@ export function ShoppingCart({ isOpen }: ShoppingCartProps) {
     <div>
       <Offcanvas show={isOpen} onHide={closeCart} placement="end">
         <Offcanvas.Header closeButton>
-          <Offcanvas.Title><h3 id="h3">Shopping Cart</h3></Offcanvas.Title>
+          <Offcanvas.Title><h3 id="h3-shopping-cart">Shopping Cart</h3></Offcanvas.Title>
         </Offcanvas.Header>
         <Offcanvas.Body>
           <Stack gap={3}>

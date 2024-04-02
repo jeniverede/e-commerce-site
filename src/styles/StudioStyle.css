@@ -15,6 +15,7 @@
 }
 
 #h4-studio {
+  font-family: var(--bs-font-primary);
   color: var(--bs-heading-color-light);
 }
 

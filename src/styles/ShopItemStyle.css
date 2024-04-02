@@ -39,6 +39,7 @@
 
 #btn-primary {
   background-color: var(--clr-accent-dark);
+  font-family: var(--bs-font-primary);
   width: 50%;
   text-align: center;
   border: none;
