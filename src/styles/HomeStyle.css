@@ -1,0 +1,27 @@
+img {
+  width: 100%;
+}
+
+#product-credit {
+  padding-left: 1rem;
+  transform: translateY(-30px);
+}
+
+#h2 {
+  color: var(--clr-light);
+  padding: 1rem 0;
+}
+
+.new-products-container {
+  display: flex;
+  gap: 1rem;
+  cursor:pointer;
+}
+
+.new-products-title {
+  display: flex;
+  margin:auto;
+  width: 50%;
+  gap: 1rem;
+  
+}

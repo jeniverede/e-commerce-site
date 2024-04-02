@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "category": "bowl",
+    "name": "albion bowl",
+    "price": 10,
+    "imgUrl": "/img/albion-bowl.jpg",
+    "dimensions": "approx. size: diameter 14 cm, height 7,5 cm",
+    "description": "ceramic bowl with textured surface, stoneware, glazed glossy white"
+  },
+  {
+    "id": 2,
+    "category": "bowl",
+    "name": "st. hilda's bowl",
+    "price": 10,
+    "imgUrl": "/img/st-hildas-bowl.jpg",
+    "dimensions": "approx. size: diameter 17 cm, height 5,5 cm",
+    "description": "ceramic shallow bowl, stoneware, glazed glossy white"
+  },
+  {
+    "id": 3,
+    "category": "bowl",
+    "name": "st. mary's bowl",
+    "price": 20,
+    "imgUrl": "/img/st-marys-bowl.jpg",
+    "dimensions": "approx. size: diameter 15 cm, height 7,5 cm",
+    "description": "ceramic bowl, stoneware, glazed glossy white"
+  },
+  {
+    "id": 4,
+    "category": "bowl",
+    "name": "waterstead bowl",
+    "price": 15,
+    "imgUrl": "/img/waterstead-bowl.jpg",
+    "dimensions": "approx. size: diameter 12 cm, height 5,5 cm",
+    "description": "ceramic small bowl, stoneware, glazed glossy white"
+  },
+  {
+    "id": 5,
+    "category": "box",
+    "name": "ash grove box",
+    "price": 30,
+    "imgUrl": "/img/ash-grove-box.jpg",
+    "dimensions": "approx. size: diameter 15 cm, height 10 cm",
+    "description": "ceramic lidded box, stoneware, glazed"
+  },
+  {
+    "id": 6,
+    "category": "box",
+    "name": "sneaton box",
+    "price": 35,
+    "imgUrl": "/img/sneaton-box.jpg",
+    "dimensions": "approx. size: diameter 12 cm, height 20 cm",
+    "description": "ceramic lidded box, stoneware, glazed"
+  },
+  {
+    "id": 7,
+    "category": "box",
+    "name": "whitby box",
+    "price": 30,
+    "imgUrl": "/img/whitby-box.jpg",
+    "dimensions": "approx. size: diameter 15 cm, height 10 cm",
+    "description": "ceramic lidded box, stoneware, lid is glazed, box is unglazed and not food safe"
+  },
+  {
+    "id": 8,
+    "category": "cup",
+    "name": "cresent cup",
+    "price": 10,
+    "imgUrl": "/img/cresent-cup.jpg",
+    "dimensions": "approx. size: diameter 8 cm, height 8 cm",
+    "description": "ceramic cup, stoneware, glazed "
+  },
+  {
+    "id": 9,
+    "category": "mug",
+    "name": "bellevue mug",
+    "price": 15,
+    "imgUrl": "/img/bellevue-mug.jpg",
+    "dimensions": "approx. size: diameter 8 cm, height 6 cm",
+    "description": "ceramic mug, stoneware, glazed"
+  },
+  {
+    "id": 10,
+    "category": "mug",
+    "name": "wellington mug",
+    "price": 15,
+    "imgUrl": "/img/wellington-mug.jpg",
+    "dimensions": "approx. size: diameter 8 cm, height 6 cm",
+    "description": "ceramic mug, stoneware, glazed"
+  },
+  {
+    "id": 11,
+    "category": "pitcher",
+    "name": "hudson pitcher",
+    "price": 30,
+    "imgUrl": "/img/hudson-pitcher.jpg",
+    "dimensions": "approx. size: diameter 14 cm, height 20 cm",
+    "description": "ceramic pitcher, stoneware, glazed"
+  },
+  {
+    "id": 12,
+    "category": "pitcher",
+    "name": "terrace pitcher",
+    "price": 35,
+    "imgUrl": "/img/terrace-pitcher.jpg",
+    "dimensions": "approx. size: diameter 18 cm, height 14 cm",
+    "description": "ceramic pitcher, stoneware, inside is glazed, outside is unglazed"
+  },
+  {
+    "id": 13,
+    "category": "vessel",
+    "name": "abbey vessel",
+    "price": 10,
+    "imgUrl": "/img/abbey-vessel.jpg",
+    "dimensions": "approx. size: diameter 10 cm, height 15 cm",
+    "description": "ceramic vessel, stoneware, glazed"
+  },
+  {
+    "id": 14,
+    "category": "bowl",
+    "name": "church platform bowl",
+    "price": 40,
+    "imgUrl": "/img/church-platform-bowl.jpg",
+    "dimensions": "approx. size: diameter 14 cm, height 20 cm",
+    "description": "ceramic bowl on a mid-height pedestal, stoneware, unglazed"
+  }
+]

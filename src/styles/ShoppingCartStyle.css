@@ -1,0 +1,9 @@
+#h3 {
+  color: var(--bs-heading-color-dark);
+}
+
+.total {
+  font-weight: bold;
+  font-size: large;
+  align-self: flex-end;
+}

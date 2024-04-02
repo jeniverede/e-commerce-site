@@ -1,0 +1,60 @@
+/* Custom properties, method for declaring re-usable values and can be updated */
+body {
+  background-color: #000;
+
+  /* colors need to use id*/
+  --bs-heading-color-light: #f5f5f5;
+  --bs-heading-color-dark: #111111;
+
+  --clr-light: #f5f5f5;
+  --clr-dark: #111111;
+  --clr-accent-light: #f1f9ff;
+  --clr-accent-dark: #336699;
+  --clr-boxshadow: #5a5e7d;
+
+  /* box shadow */
+  --bs: 0.25rem 0.25rem 0.75rem rgba(90, 94, 125, 0.25),
+    0.125rem 0.125rem 0.25rem rgba(90, 94, 125, 0.15);
+
+  /* font family */
+  --bs-font-primary: Caudex;
+  --bs-font-secondary: LibreBaskerville;
+  --bs-body-font-family: LibreBaskerville;
+}
+
+/* font files */
+@font-face {
+  font-family: Caudex;
+  src: local("caudex-regular"),
+    url("../fonts/Caudex-Regular.woff2") format("woff2"),
+    url("../fonts/Caudex-Regular.woff") format("woff");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: Caudex;
+  src: local("caudex-bold"),
+    url("../fonts/Caudex-Bold.woff2") format("woff2"),
+    url("../fonts/Caudex-Bold.woff") format("woff");
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: LibreBaskerville;
+  src: local("librebaskerville-regular"),
+    url("../fonts/LibreBaskerville-Regular.woff2") format("woff2"),
+    url("../fonts/LibreBaskerville-Regular.woff") format("woff");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: LibreBaskerville;
+  src: local("librebaskerville-bold"),
+    url("../fonts/LibreBaskerville-Bold.woff2") format("woff2"),
+    url("../fonts/LibreBaskerville-Bold.woff") format("woff");
+  font-weight: 700;
+}
+
+#root {
+  background-color: var(--clr-dark);
+}

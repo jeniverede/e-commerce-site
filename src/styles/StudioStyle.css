@@ -1,0 +1,23 @@
+.page-container {
+    display: flex;
+}
+.text-container {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    line-height: 1.8;
+    padding-right: 50px;
+}
+
+#h4 {
+    color: var(--bs-heading-color-light)
+}
+
+.p-studio   {
+    color: var(--bs-heading-color-light)
+}
+
+.img-container {
+    width: 50%;
+}
+
