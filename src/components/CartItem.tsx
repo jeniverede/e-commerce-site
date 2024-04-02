@@ -1,5 +1,4 @@
-/* convert to css */
-/* data */
+/* Data */
 import shopItems from "../data/items.json";
 
 /* Components */
@@ -27,21 +26,20 @@ export function CartItem({ id, quantity }: CartItemProps) {
   if (item == null) return null;
 
   return (
-    <Stack direction="horizontal" gap={2} className="d-flex align-items-center">
-      <img
+    <Stack direction="horizontal" gap={2} className="stack-container">
+      <img className="cart-img"
         src={item.imgUrl}
-        style={{ width: "125px", height: "75px", objectFit: "cover", borderRadius:"10px" }}
       />
       <div className="me-auto">
         <div>
           {item.name} {""}
           {quantity > 1 && (
-            <span className="text-muted" style={{ fontSize: ".65rem" }}>
+            <span className="text-muted" >
               x{quantity}
             </span>
           )}
         </div>
-        <div className="text-muted" style={{ fontSize: ".75rem" }}>
+        <div className="text-muted">
           {formatCurrency(item.price)}
         </div>
       </div>

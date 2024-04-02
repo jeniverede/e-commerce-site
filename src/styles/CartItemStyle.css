@@ -1,0 +1,15 @@
+.stack-container    {
+    display: flex;
+    align-items: center;
+}
+
+.cart-img   {
+    width: 7.813rem;
+    height: auto;
+    object-fit: cover;
+    border-radius: 0.625rem;
+}
+
+.text-muted {
+    font-size: .75rem;
+}
