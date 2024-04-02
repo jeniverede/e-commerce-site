@@ -3,9 +3,9 @@ img {
 }
 
 #product-credit {
+  font-size: small;
   padding-left: 1rem;
   transform: translateY(-1.875rem);
-  letter-spacing: .05rem;
 }
 
 #h1-home {
