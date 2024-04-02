@@ -3,6 +3,10 @@
   color: var(--bs-heading-color-dark);
 }
 
+#cart-item  {
+  font-family: var(--bs-font-secondary);
+}
+
 .total {
   font-family: var(--bs-font-primary);
   font-weight: bold;

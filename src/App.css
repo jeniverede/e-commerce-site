@@ -20,6 +20,9 @@ body {
   --bs-font-primary: Caudex;
   --bs-font-secondary: LibreBaskerville;
   --bs-body-font-family: LibreBaskerville;
+
+  /* font size */
+  --fs-h1: Caudex;
 }
 
 /* font files */

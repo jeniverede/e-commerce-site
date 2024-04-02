@@ -3,7 +3,7 @@
   margin-bottom: 1rem;
   font-family: var(--bs-font-primary);
   font-weight: bold;
-  font-size: larger;
+  font-size: x-large;
 }
 
 #btn-cart {
@@ -16,9 +16,9 @@
   color: var(--clr-dark);
 }
 
-.fa-cart-shopping:hover{
-    background-color: var(--clr-dark);
-    color: var(--clr-light);
+.fa-cart-shopping:hover {
+  background-color: var(--clr-dark);
+  color: var(--clr-light);
 }
 
 #cart-count-circle {
@@ -37,14 +37,14 @@
 
 /* tablet landscape */
 @media (min-width: 810px) and (orientation: landscape) {
-  #cart-count-circle  {
+  #cart-count-circle {
     transform: translate(-175%);
   }
 }
 
 /* desktop */
 @media (min-width: 1440px) and (orientation: landscape) {
-  #cart-count-circle  {
+  #cart-count-circle {
     transform: translate(-225%);
   }
 }

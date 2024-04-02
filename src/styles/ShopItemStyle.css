@@ -40,6 +40,7 @@
 #btn-primary {
   background-color: var(--clr-accent-dark);
   font-family: var(--bs-font-primary);
+  font-size: large;
   width: 50%;
   text-align: center;
   border: none;
@@ -72,4 +73,9 @@
 #btn-add-subtract {
   background-color: var(--clr-accent-dark);
   border: none;
+}
+
+#btn-remove {
+  font-family: var(--bs-font-primary);
+  font-size: large;
 }

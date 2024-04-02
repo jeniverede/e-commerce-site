@@ -48,7 +48,7 @@ export function Contact() {
   return (
     <>
       <div className="form-container">
-        <h1 className="h1-contact">bright stone ceramics</h1>
+        <h1 id="h1-contact">bright stone ceramics</h1>
         <p className="p-contact">
           Please register for my newsletter to recieve special offers and shop
           updates!

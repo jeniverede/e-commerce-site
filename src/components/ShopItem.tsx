@@ -70,7 +70,7 @@ export function ShopItem({
         <div className="btn-container">
           {quantity === 0 ? (
             <Button id="btn-primary" onClick={() => increaseCartQuantity(id)}>
-              + Add To Cart
+              + add to cart
             </Button>
           ) : (
             <div
@@ -87,7 +87,7 @@ export function ShopItem({
                     onClick={() => removeFromCart(id)}
                     variant="danger"
                   >
-                    Remove
+                    remove
                   </Button>
                 </div>
               </div>
