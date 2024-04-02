@@ -75,3 +75,17 @@ input {
   gap: 1rem;
 }
 
+/* tablet landscape */
+@media (min-width: 810px) and (orientation: landscape) {
+  #btn-secondary {
+    width: 25%;
+  }
+}
+
+/* desktop */
+@media (min-width: 1440px) and (orientation: landscape) {
+  #btn-secondary {
+    width: 15%;
+  }
+}
+
