@@ -27,6 +27,7 @@ export function Navbar() {
           </Nav.Link>
         </Nav>
 
+        <div className="cart-counter-container">
           {cartQuantity > 0 && (
             <Button
               onClick={openCart}
@@ -38,7 +39,7 @@ export function Navbar() {
               <div id="cart-count-circle">{cartQuantity}</div>
             </Button>
           )}
-
+        </div>
       </Container>
     </NavbarBS>
   );
