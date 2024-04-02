@@ -1,10 +1,6 @@
-.page-container {
-  display: flex;
-}
 .text-container {
-  display: flex;
-  flex-direction: column;
-  width: 50%;
+  
+  width: 100%;
   line-height: 1.8;
   padding-right: 3.125rem;
 }
@@ -21,9 +17,24 @@
 
 .p-studio {
   color: var(--bs-heading-color-light);
-  letter-spacing: .075rem;
+  letter-spacing: 0.075rem;
 }
 
 .img-container {
-  width: 50%;
+  width: 100%;
+}
+
+/* desktop */
+@media (min-width: 1440px) and (orientation: landscape) {
+  .page-container {
+    display: flex;
+  }
+
+  .text-container {
+    width: 50%;
+  }
+
+  .img-container {
+    width: 50%;
+  }
 }

@@ -9,7 +9,7 @@
 }
 
 .card-body {
-  height: 14.625rem;
+  height: auto;
   display: flex;
   flex-direction: column;
 }
@@ -80,3 +80,4 @@
   font-family: var(--bs-font-primary);
   font-size: large;
 }
+

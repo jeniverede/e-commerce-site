@@ -59,6 +59,7 @@ input {
 
 .p-contact {
   margin: auto;
+  text-align: center;
   line-height: 1.8;
   letter-spacing: .075rem;
 }
@@ -69,7 +70,8 @@ input {
   border-style: solid;
   border-width: medium;
   width: 70%;
-  margin: 1rem auto;
+  margin: 2rem auto;
   padding: 1rem;
+  gap: 1rem;
 }
 
