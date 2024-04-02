@@ -9,8 +9,7 @@ img {
 
 #h1-home {
   font-family: var(--bs-font-primary);
-  color: var(--clr-light);
-  padding: 1rem 0;
+  color: var(--clr-light);;
 }
 
 #h2-home {
@@ -22,7 +21,6 @@ img {
 #h3-home {
   font-family: var(--bs-font-primary);
   color: var(--clr-light);
-  padding: 1rem 0;
 }
 
 .new-products-container {
