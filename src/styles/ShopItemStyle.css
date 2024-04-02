@@ -26,7 +26,8 @@
 .card-text {
   font-family: var(--bs-font-secondary);
   font-weight: normal;
-  font-size: medium;
+  font-size: large;
+  letter-spacing: .075rem;
   line-height: 1.6;
   margin: 1rem 0;
 }

@@ -18,11 +18,8 @@ body {
 
   /* font family */
   --bs-font-primary: Caudex;
-  --bs-font-secondary: LibreBaskerville;
-  --bs-body-font-family: LibreBaskerville;
-
-  /* font size */
-  --fs-h1: Caudex;
+  --bs-font-secondary: SourceSansPro;
+  --bs-body-font-family: SourceSansPro;
 }
 
 /* font files */
@@ -43,18 +40,18 @@ body {
 }
 
 @font-face {
-  font-family: LibreBaskerville;
-  src: local("librebaskerville-regular"),
-    url("../fonts/LibreBaskerville-Regular.woff2") format("woff2"),
-    url("../fonts/LibreBaskerville-Regular.woff") format("woff");
+  font-family: SourceSansPro;
+  src: local("sourcesans3-regular"),
+    url("../fonts/SourceSans3-Regular.woff2") format("woff2"),
+    url("../fonts/SourceSans3-Regular.woff") format("woff");
   font-weight: 400;
 }
 
 @font-face {
-  font-family: LibreBaskerville;
-  src: local("librebaskerville-bold"),
-    url("../fonts/LibreBaskerville-Bold.woff2") format("woff2"),
-    url("../fonts/LibreBaskerville-Bold.woff") format("woff");
+  font-family: SourceSansPro;
+  src: local("sourcesans3-bold"),
+    url("../fonts/SourceSans3-Bold.woff2") format("woff2"),
+    url("../fonts/SourceSans3-Bold.woff") format("woff");
   font-weight: 700;
 }
 

@@ -5,6 +5,7 @@ img {
 #product-credit {
   padding-left: 1rem;
   transform: translateY(-30px);
+  letter-spacing: .075rem;
 }
 
 #h1-home {

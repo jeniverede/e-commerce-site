@@ -5,6 +5,7 @@
 
 #cart-item  {
   font-family: var(--bs-font-secondary);
+  letter-spacing: .075rem;
 }
 
 .total {

@@ -21,6 +21,7 @@
 
 .p-studio {
   color: var(--bs-heading-color-light);
+  letter-spacing: .075rem;
 }
 
 .img-container {

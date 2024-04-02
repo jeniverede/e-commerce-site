@@ -22,6 +22,7 @@ label {
   font-family: var(--bs-font-secondary);
   color: var(--clr-dark);
   margin: .5rem;
+  letter-spacing: .075rem;
 }
 
 input {
@@ -31,6 +32,7 @@ input {
   border-width: thin;
   padding: 0.5rem;
   outline: none;
+  letter-spacing: .075rem;
 }
 
 #btn-secondary {
@@ -58,6 +60,7 @@ input {
 .p-contact {
   margin: auto;
   line-height: 1.8;
+  letter-spacing: .075rem;
 }
 
 .disclaimer {
